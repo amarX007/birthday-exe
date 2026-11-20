@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // DATE
     // =========================
 
-    const dateText = "30th August";
+    const dateText = "30th February";
     const dob = document.querySelector(".dob span");
 
     let currentIndex = 0;
